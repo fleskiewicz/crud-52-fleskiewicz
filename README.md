@@ -33,3 +33,8 @@ Użycie bootstrapa na podstawie przykładowej aplikacji MyGists
 ```
 Customowa czcionka poprawiająca wygląd względem standardowej
 ```
+* __Zmiana koloru względem aktywnej strony__
+```
+Przykładowe użycie:
+  <li class="<%= 'active' if params[:controller] == 'players' %>"><a href="/players">PLAYERS</a></li>
+```
