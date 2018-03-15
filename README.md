@@ -9,6 +9,8 @@
 
 ### [https://asicrud.herokuapp.com/](https://asicrud.herokuapp.com/) - Prosta aplikacja CRUD umożliwiająca zarządzanie składem drużyny piłki nożnej.
 
+----
+
 ##### Dodatkowe funkcjonalności:
 * Carrierwave
 * File_validators
