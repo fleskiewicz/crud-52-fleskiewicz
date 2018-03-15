@@ -12,7 +12,24 @@
 ----
 
 ##### Dodatkowe funkcjonalności:
-* Carrierwave
-* File_validators
-* Validates_timeliness
-* Bootstrap-sass
+
+* [__Carrierwave__](https://github.com/carrierwaveuploader/carrierwave)
+```
+Gem użyty do umożliwienia uploadu plików na stronę
+```
+* [__File_validators__](https://github.com/musaffa/file_validators)
+```
+Gem ułatwiający walidowanie uploadowanych plików pod kątem rozmiaru, rozszerzenia itp.
+```
+* [__Validates_timeliness__](https://github.com/adzap/validates_timeliness)
+```
+Gem umożliwiający łatwą walidację date, time, datetime
+```
+* [__Bootstrap-sass__](https://github.com/twbs/bootstrap-sass)
+```
+Użycie bootstrapa na podstawie przykładowej aplikacji MyGists
+```
+* [__Customowy font - Oswald__](https://fonts.google.com/specimen/Oswald)
+```
+Customowa czcionka poprawiająca wygląd względem standardowej
+```
